@@ -1,0 +1,43 @@
+﻿<Application
+    x:Class="MusicCMS_Admin.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="clr-namespace:MusicCMS_Admin"
+    StartupUri="Views/StartWindow.xaml">
+
+    <Application.Resources>
+
+        <ResourceDictionary>
+
+            <Style TargetType="ListBoxItem">
+                <Setter Property="HorizontalContentAlignment" Value="{Binding HorizontalContentAlignment, RelativeSource={RelativeSource AncestorType=ItemsControl}}" />
+                <Setter Property="VerticalContentAlignment" Value="{Binding VerticalContentAlignment, RelativeSource={RelativeSource AncestorType=ItemsControl}}" />
+            </Style>
+
+            <ResourceDictionary.MergedDictionaries>
+
+                <ResourceDictionary Source="/Dictionaries/StartWindows_Dictionary.xaml" />
+
+                <ResourceDictionary Source="/Dictionaries/MenuDictionary.xaml" />
+
+                <ResourceDictionary Source="/Dictionaries/MusicSectionDictionary.xaml" />
+
+                <ResourceDictionary Source="/Dictionaries/ListboxtItemDictionary.xaml" />
+
+                <ResourceDictionary Source="/Dictionaries/SliderDictionary.xaml" />
+
+                <ResourceDictionary Source="/Dictionaries/ScrollviewerDictionary.xaml" />
+
+                <ResourceDictionary Source="/Dictionaries/SearchDictionary.xaml" />
+
+                <ResourceDictionary Source="/Dictionaries/ComboBoxDictionary.xaml" />
+
+                <ResourceDictionary Source="/Dictionaries/EllipseDictionary.xaml" />
+
+            </ResourceDictionary.MergedDictionaries>
+
+        </ResourceDictionary>
+
+    </Application.Resources>
+
+</Application>

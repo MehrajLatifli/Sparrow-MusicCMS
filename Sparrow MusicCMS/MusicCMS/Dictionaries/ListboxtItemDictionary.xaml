@@ -1,0 +1,43 @@
+﻿<ResourceDictionary
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:sys="clr-namespace:System;assembly=mscorlib">
+    <SolidColorBrush x:Key="ListboxItemForeGroundColor">#ffff</SolidColorBrush>
+    <SolidColorBrush x:Key="ListboxItemBackRoundColor" Color="#18c274" />
+    <SolidColorBrush x:Key="ListboxItemBorderColor" Color="White" />
+    <sys:Double x:Key="ListboxItemFontSize">12</sys:Double>
+
+    <Style x:Key="_ListBoxItemStyle" TargetType="ListBoxItem">
+
+        <Setter Property="HorizontalContentAlignment" Value="Stretch" />
+        <Setter Property="VerticalContentAlignment" Value="Stretch" />
+
+        <Setter Property="Template">
+            <Setter.Value>
+                <ControlTemplate TargetType="ListBoxItem">
+                    <Border
+                        Name="_Border"
+                        Padding="2"
+                        SnapsToDevicePixels="true">
+                        <ContentPresenter />
+                    </Border>
+                    <ControlTemplate.Triggers>
+                        <Trigger Property="IsSelected" Value="true">
+                            <Setter TargetName="_Border" Property="Background">
+                                <Setter.Value>
+                                    <LinearGradientBrush StartPoint="0,0" EndPoint="2,2">
+                                        <GradientStop Offset="1" Color="Transparent" />
+                                        <GradientStop Offset="0.5" Color="Transparent" />
+                                    </LinearGradientBrush>
+                                </Setter.Value>
+                            </Setter>
+                            <Setter TargetName="_Border" Property="Cursor" Value="Hand" />
+                            <Setter Property="Foreground" Value="Red" />
+                        </Trigger>
+                    </ControlTemplate.Triggers>
+                </ControlTemplate>
+            </Setter.Value>
+        </Setter>
+    </Style>
+
+</ResourceDictionary>

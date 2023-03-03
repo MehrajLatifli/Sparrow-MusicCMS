@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword />
+    <History>True|2023-03-01T23:21:27.4412864Z;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="CustomDbConnection">
+      <Value>Data Source=DESKTOP-JGU6DER%3bUser ID=sa%3b Password=admin1234%3bInitial Catalog=MusicCMSCustomUserDB%3b Integrated Security=True%3b ApplicationIntent=ReadWrite%3b MultipleActiveResultSets=True%3b Trusted_Connection=True%3b</Value>
+    </DestinationConnectionStrings>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>Data Source=DESKTOP-JGU6DER%3bInitial Catalog=MusicCMS%3bUser ID=sa%3bPassword=admin1234%3b Integrated Security=True%3b ApplicationIntent=ReadWrite%3b MultipleActiveResultSets = True%3b Trusted_Connection=True%3b</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+  <ItemGroup>
+    <EFMigrations Include="MusicCMS_API.Database.DbContext.CustomDbContext">
+      <Value>Data Source=DESKTOP-JGU6DER%3bUser ID=sa%3b Password=admin1234%3bInitial Catalog=MusicCMSCustomUserDB%3b Integrated Security=True%3b ApplicationIntent=ReadWrite%3b MultipleActiveResultSets=True%3b Trusted_Connection=True%3b</Value>
+    </EFMigrations>
+    <EFMigrations Include="MusicCMS_Entities.Concrete.DatabaseFirst.MusicCMSContext">
+      <Value>Data Source=DESKTOP-JGU6DER%3bInitial Catalog=MusicCMS%3bUser ID=sa%3bPassword=admin1234%3b Integrated Security=True%3b ApplicationIntent=ReadWrite%3b MultipleActiveResultSets = True%3b Trusted_Connection=True%3b</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,60 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MusicCMS", "MusicCMS\MusicCMS.csproj", "{100E4B2E-1F5A-4F0F-82A3-794C0001560B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MusicCMS API", "MusicCMS API\MusicCMS API.csproj", "{7AC720BC-21C1-4DA1-96FD-3EC55C853F80}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MusicCMS Core", "MusicCMS Core\MusicCMS Core.csproj", "{B88A1655-BF32-4C7F-A266-A1CE5D5B0D9B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MusicCMS Entities", "MusicCMS Entities\MusicCMS Entities.csproj", "{D60A22A6-5AEF-409F-83E8-4149B2E58B16}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MusicCMS Business", "MusicCMS Business\MusicCMS Business.csproj", "{4A2A41BD-019B-45FF-8D51-8B704F0F2ECC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MusicCMS DataAccess", "MusicCMS DataAccess\MusicCMS DataAccess.csproj", "{000B8C91-D4D9-42BA-BEF7-D983A7AC7117}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{76D01FDA-40DA-4B98-BE93-A414C65B42EF}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{100E4B2E-1F5A-4F0F-82A3-794C0001560B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{100E4B2E-1F5A-4F0F-82A3-794C0001560B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{100E4B2E-1F5A-4F0F-82A3-794C0001560B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{100E4B2E-1F5A-4F0F-82A3-794C0001560B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7AC720BC-21C1-4DA1-96FD-3EC55C853F80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AC720BC-21C1-4DA1-96FD-3EC55C853F80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AC720BC-21C1-4DA1-96FD-3EC55C853F80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AC720BC-21C1-4DA1-96FD-3EC55C853F80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B88A1655-BF32-4C7F-A266-A1CE5D5B0D9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B88A1655-BF32-4C7F-A266-A1CE5D5B0D9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B88A1655-BF32-4C7F-A266-A1CE5D5B0D9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B88A1655-BF32-4C7F-A266-A1CE5D5B0D9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D60A22A6-5AEF-409F-83E8-4149B2E58B16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D60A22A6-5AEF-409F-83E8-4149B2E58B16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D60A22A6-5AEF-409F-83E8-4149B2E58B16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D60A22A6-5AEF-409F-83E8-4149B2E58B16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A2A41BD-019B-45FF-8D51-8B704F0F2ECC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A2A41BD-019B-45FF-8D51-8B704F0F2ECC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A2A41BD-019B-45FF-8D51-8B704F0F2ECC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A2A41BD-019B-45FF-8D51-8B704F0F2ECC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{000B8C91-D4D9-42BA-BEF7-D983A7AC7117}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{000B8C91-D4D9-42BA-BEF7-D983A7AC7117}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{000B8C91-D4D9-42BA-BEF7-D983A7AC7117}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{000B8C91-D4D9-42BA-BEF7-D983A7AC7117}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4FE97057-5651-4486-A75F-2890E6A88701}
+	EndGlobalSection
+EndGlobal

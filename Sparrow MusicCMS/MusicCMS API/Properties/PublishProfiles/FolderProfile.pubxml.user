@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS\MusicCMS API\bin\Release\net6.0\publish\</_PublishTargetUrl>
+    <History>True|2023-03-02T00:16:33.9676624Z;True|2023-03-02T03:59:39.0195012+04:00;True|2023-03-02T03:56:17.0974613+04:00;True|2023-03-02T03:47:39.7023991+04:00;False|2023-03-02T03:42:06.7437139+04:00;True|2023-03-02T03:25:31.8135077+04:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="CustomDbConnection">
+      <Value>Data Source=DESKTOP-JGU6DER%3bUser ID=sa%3b Password=admin1234%3bInitial Catalog=MusicCMSCustomUserDB%3b Integrated Security=True%3b ApplicationIntent=ReadWrite%3b MultipleActiveResultSets=True%3b Trusted_Connection=True%3b</Value>
+    </DestinationConnectionStrings>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>Data Source=DESKTOP-JGU6DER%3bInitial Catalog=MusicCMS%3bUser ID=sa%3bPassword=admin1234%3b Integrated Security=True%3b ApplicationIntent=ReadWrite%3b MultipleActiveResultSets = True%3b Trusted_Connection=True%3b</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+  <ItemGroup>
+    <EFMigrations Include="MusicCMS_API.Database.DbContext.CustomDbContext">
+      <Value>Data Source=DESKTOP-JGU6DER%3bUser ID=sa%3b Password=admin1234%3bInitial Catalog=MusicCMSCustomUserDB%3b Integrated Security=True%3b ApplicationIntent=ReadWrite%3b MultipleActiveResultSets=True%3b Trusted_Connection=True%3b</Value>
+    </EFMigrations>
+    <EFMigrations Include="MusicCMS_Entities.Concrete.DatabaseFirst.MusicCMSContext">
+      <Value>Data Source=DESKTOP-JGU6DER%3bInitial Catalog=MusicCMS%3bUser ID=sa%3bPassword=admin1234%3b Integrated Security=True%3b ApplicationIntent=ReadWrite%3b MultipleActiveResultSets = True%3b Trusted_Connection=True%3b</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>

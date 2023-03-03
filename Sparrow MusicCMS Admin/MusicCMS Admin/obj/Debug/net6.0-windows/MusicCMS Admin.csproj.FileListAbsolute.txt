@@ -1,0 +1,90 @@
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS Admin\MusicCMS Admin\bin\Debug\net6.0-windows\MusicCMS Admin.exe
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS Admin\MusicCMS Admin\bin\Debug\net6.0-windows\MusicCMS Admin.deps.json
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS Admin\MusicCMS Admin\bin\Debug\net6.0-windows\MusicCMS Admin.runtimeconfig.json
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS Admin\MusicCMS Admin\bin\Debug\net6.0-windows\MusicCMS Admin.dll
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS Admin\MusicCMS Admin\bin\Debug\net6.0-windows\MusicCMS Admin.pdb
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS Admin\MusicCMS Admin\bin\Debug\net6.0-windows\CloudinaryDotNet.dll
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS Admin\MusicCMS Admin\bin\Debug\net6.0-windows\DotNetProjects.DataVisualization.Toolkit.dll
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS Admin\MusicCMS Admin\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Core.dll
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS Admin\MusicCMS Admin\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Material.dll
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS Admin\MusicCMS Admin\bin\Debug\net6.0-windows\MathNet.Numerics.dll
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS Admin\MusicCMS Admin\bin\Debug\net6.0-windows\System.Net.Http.Formatting.dll
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS Admin\MusicCMS Admin\bin\Debug\net6.0-windows\System.Web.Http.dll
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS Admin\MusicCMS Admin\bin\Debug\net6.0-windows\System.Web.Http.WebHost.dll
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS Admin\MusicCMS Admin\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Html.Abstractions.dll
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS Admin\MusicCMS Admin\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Http.Abstractions.dll
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS Admin\MusicCMS Admin\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Http.Features.dll
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS Admin\MusicCMS Admin\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS Admin\MusicCMS Admin\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS Admin\MusicCMS Admin\bin\Debug\net6.0-windows\NAudio.dll
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS Admin\MusicCMS Admin\bin\Debug\net6.0-windows\NAudio.Asio.dll
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS Admin\MusicCMS Admin\bin\Debug\net6.0-windows\NAudio.Core.dll
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS Admin\MusicCMS Admin\bin\Debug\net6.0-windows\NAudio.Midi.dll
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS Admin\MusicCMS Admin\bin\Debug\net6.0-windows\NAudio.Wasapi.dll
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS Admin\MusicCMS Admin\bin\Debug\net6.0-windows\NAudio.WinForms.dll
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS Admin\MusicCMS Admin\bin\Debug\net6.0-windows\NAudio.WinMM.dll
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS Admin\MusicCMS Admin\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS Admin\MusicCMS Admin\bin\Debug\net6.0-windows\Newtonsoft.Json.Bson.dll
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS Admin\MusicCMS Admin\bin\Debug\net6.0-windows\Newtonsoft.Json.Schema.dll
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS Admin\MusicCMS Admin\bin\Debug\net6.0-windows\SharpVectors.Converters.Wpf.dll
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS Admin\MusicCMS Admin\bin\Debug\net6.0-windows\SharpVectors.Core.dll
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS Admin\MusicCMS Admin\bin\Debug\net6.0-windows\SharpVectors.Css.dll
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS Admin\MusicCMS Admin\bin\Debug\net6.0-windows\SharpVectors.Dom.dll
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS Admin\MusicCMS Admin\bin\Debug\net6.0-windows\SharpVectors.Model.dll
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS Admin\MusicCMS Admin\bin\Debug\net6.0-windows\SharpVectors.Rendering.Gdi.dll
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS Admin\MusicCMS Admin\bin\Debug\net6.0-windows\SharpVectors.Rendering.Wpf.dll
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS Admin\MusicCMS Admin\bin\Debug\net6.0-windows\SharpVectors.Runtime.Wpf.dll
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS Admin\MusicCMS Admin\bin\Debug\net6.0-windows\WpfAnimatedGif.dll
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS Admin\MusicCMS Admin\obj\Debug\net6.0-windows\MusicCMS Admin.csproj.AssemblyReference.cache
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS Admin\MusicCMS Admin\obj\Debug\net6.0-windows\Dictionaries\ComboBoxDictionary.baml
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS Admin\MusicCMS Admin\obj\Debug\net6.0-windows\Dictionaries\EllipseDictionary.baml
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS Admin\MusicCMS Admin\obj\Debug\net6.0-windows\Dictionaries\ListboxtItemDictionary.baml
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS Admin\MusicCMS Admin\obj\Debug\net6.0-windows\Dictionaries\MusicSectionDictionary.baml
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS Admin\MusicCMS Admin\obj\Debug\net6.0-windows\Dictionaries\ScrollviewerDictionary.baml
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS Admin\MusicCMS Admin\obj\Debug\net6.0-windows\Dictionaries\SearchDictionary.baml
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS Admin\MusicCMS Admin\obj\Debug\net6.0-windows\Dictionaries\SliderDictionary.baml
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS Admin\MusicCMS Admin\obj\Debug\net6.0-windows\Dictionaries\StartWindows_Dictionary.baml
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS Admin\MusicCMS Admin\obj\Debug\net6.0-windows\Views\Helper Views\Notification Views\ToastNotificationWindow.g.cs
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS Admin\MusicCMS Admin\obj\Debug\net6.0-windows\Views\Helper Views\Pop-up Views\AlbumPopupWindow.g.cs
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS Admin\MusicCMS Admin\obj\Debug\net6.0-windows\Views\Helper Views\Pop-up Views\MusicPopupWindow.g.cs
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS Admin\MusicCMS Admin\obj\Debug\net6.0-windows\Views\StartWindow.g.cs
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS Admin\MusicCMS Admin\obj\Debug\net6.0-windows\Views\UserControls\Album_UC.g.cs
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS Admin\MusicCMS Admin\obj\Debug\net6.0-windows\Views\UserControls\ArtistAlbum_UC.g.cs
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS Admin\MusicCMS Admin\obj\Debug\net6.0-windows\Views\UserControls\Artist_UC.g.cs
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS Admin\MusicCMS Admin\obj\Debug\net6.0-windows\Views\UserControls\Home_UC.g.cs
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS Admin\MusicCMS Admin\obj\Debug\net6.0-windows\Views\UserControls\MusicAlbum_UC.g.cs
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS Admin\MusicCMS Admin\obj\Debug\net6.0-windows\Views\UserControls\Music_UC.g.cs
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS Admin\MusicCMS Admin\obj\Debug\net6.0-windows\Views\UserControls\Player_UC.g.cs
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS Admin\MusicCMS Admin\obj\Debug\net6.0-windows\Views\UserControls\Radio_UC.g.cs
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS Admin\MusicCMS Admin\obj\Debug\net6.0-windows\Views\UserPanelWindow.g.cs
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS Admin\MusicCMS Admin\obj\Debug\net6.0-windows\App.g.cs
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS Admin\MusicCMS Admin\obj\Debug\net6.0-windows\MusicCMS Admin_Content.g.cs
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS Admin\MusicCMS Admin\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS Admin\MusicCMS Admin\obj\Debug\net6.0-windows\MusicCMS Admin_MarkupCompile.cache
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS Admin\MusicCMS Admin\obj\Debug\net6.0-windows\MusicCMS Admin_MarkupCompile.lref
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS Admin\MusicCMS Admin\obj\Debug\net6.0-windows\App.baml
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS Admin\MusicCMS Admin\obj\Debug\net6.0-windows\Dictionaries\MenuDictionary.baml
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS Admin\MusicCMS Admin\obj\Debug\net6.0-windows\Views\Helper Views\Notification Views\ToastNotificationWindow.baml
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS Admin\MusicCMS Admin\obj\Debug\net6.0-windows\Views\Helper Views\Pop-up Views\AlbumPopupWindow.baml
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS Admin\MusicCMS Admin\obj\Debug\net6.0-windows\Views\Helper Views\Pop-up Views\MusicPopupWindow.baml
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS Admin\MusicCMS Admin\obj\Debug\net6.0-windows\Views\StartWindow.baml
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS Admin\MusicCMS Admin\obj\Debug\net6.0-windows\Views\UserControls\Album_UC.baml
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS Admin\MusicCMS Admin\obj\Debug\net6.0-windows\Views\UserControls\ArtistAlbum_UC.baml
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS Admin\MusicCMS Admin\obj\Debug\net6.0-windows\Views\UserControls\Artist_UC.baml
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS Admin\MusicCMS Admin\obj\Debug\net6.0-windows\Views\UserControls\Home_UC.baml
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS Admin\MusicCMS Admin\obj\Debug\net6.0-windows\Views\UserControls\MusicAlbum_UC.baml
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS Admin\MusicCMS Admin\obj\Debug\net6.0-windows\Views\UserControls\Music_UC.baml
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS Admin\MusicCMS Admin\obj\Debug\net6.0-windows\Views\UserControls\Player_UC.baml
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS Admin\MusicCMS Admin\obj\Debug\net6.0-windows\Views\UserControls\Radio_UC.baml
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS Admin\MusicCMS Admin\obj\Debug\net6.0-windows\Views\UserPanelWindow.baml
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS Admin\MusicCMS Admin\obj\Debug\net6.0-windows\MusicCMS Admin.g.resources
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS Admin\MusicCMS Admin\obj\Debug\net6.0-windows\MusicCMS Admin.GeneratedMSBuildEditorConfig.editorconfig
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS Admin\MusicCMS Admin\obj\Debug\net6.0-windows\MusicCMS Admin.AssemblyInfoInputs.cache
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS Admin\MusicCMS Admin\obj\Debug\net6.0-windows\MusicCMS Admin.AssemblyInfo.cs
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS Admin\MusicCMS Admin\obj\Debug\net6.0-windows\MusicCMS Admin.csproj.CoreCompileInputs.cache
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS Admin\MusicCMS Admin\obj\Debug\net6.0-windows\MusicCMS Admin.csproj.CopyComplete
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS Admin\MusicCMS Admin\obj\Debug\net6.0-windows\MusicCMS Admin.dll
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS Admin\MusicCMS Admin\obj\Debug\net6.0-windows\refint\MusicCMS Admin.dll
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS Admin\MusicCMS Admin\obj\Debug\net6.0-windows\MusicCMS Admin.pdb
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS Admin\MusicCMS Admin\obj\Debug\net6.0-windows\MusicCMS Admin.genruntimeconfig.cache
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS Admin\MusicCMS Admin\obj\Debug\net6.0-windows\ref\MusicCMS Admin.dll

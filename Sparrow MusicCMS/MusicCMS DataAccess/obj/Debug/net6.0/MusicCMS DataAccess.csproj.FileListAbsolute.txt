@@ -1,0 +1,42 @@
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow-MusicCMS-master\Sparrow MusicCMS\MusicCMS DataAccess\bin\Debug\net6.0\MusicCMS DataAccess.deps.json
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow-MusicCMS-master\Sparrow MusicCMS\MusicCMS DataAccess\bin\Debug\net6.0\MusicCMS DataAccess.runtimeconfig.json
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow-MusicCMS-master\Sparrow MusicCMS\MusicCMS DataAccess\bin\Debug\net6.0\MusicCMS DataAccess.dll
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow-MusicCMS-master\Sparrow MusicCMS\MusicCMS DataAccess\bin\Debug\net6.0\MusicCMS DataAccess.pdb
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow-MusicCMS-master\Sparrow MusicCMS\MusicCMS DataAccess\bin\Debug\net6.0\MusicCMS Core.dll
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow-MusicCMS-master\Sparrow MusicCMS\MusicCMS DataAccess\bin\Debug\net6.0\MusicCMS Entities.dll
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow-MusicCMS-master\Sparrow MusicCMS\MusicCMS DataAccess\bin\Debug\net6.0\MusicCMS Core.pdb
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow-MusicCMS-master\Sparrow MusicCMS\MusicCMS DataAccess\bin\Debug\net6.0\MusicCMS Entities.pdb
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow-MusicCMS-master\Sparrow MusicCMS\MusicCMS DataAccess\obj\Debug\net6.0\MusicCMS DataAccess.csproj.AssemblyReference.cache
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow-MusicCMS-master\Sparrow MusicCMS\MusicCMS DataAccess\obj\Debug\net6.0\MusicCMS DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow-MusicCMS-master\Sparrow MusicCMS\MusicCMS DataAccess\obj\Debug\net6.0\MusicCMS DataAccess.AssemblyInfoInputs.cache
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow-MusicCMS-master\Sparrow MusicCMS\MusicCMS DataAccess\obj\Debug\net6.0\MusicCMS DataAccess.AssemblyInfo.cs
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow-MusicCMS-master\Sparrow MusicCMS\MusicCMS DataAccess\obj\Debug\net6.0\MusicCMS DataAccess.csproj.CoreCompileInputs.cache
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow-MusicCMS-master\Sparrow MusicCMS\MusicCMS DataAccess\obj\Debug\net6.0\EFCoreSqlServerNetTopologySuite.cs
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow-MusicCMS-master\Sparrow MusicCMS\MusicCMS DataAccess\obj\Debug\net6.0\EFCoreSqliteNetTopologySuite.cs
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow-MusicCMS-master\Sparrow MusicCMS\MusicCMS DataAccess\obj\Debug\net6.0\MusicCMS DataAccess.csproj.CopyComplete
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow-MusicCMS-master\Sparrow MusicCMS\MusicCMS DataAccess\obj\Debug\net6.0\MusicCMS DataAccess.dll
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow-MusicCMS-master\Sparrow MusicCMS\MusicCMS DataAccess\obj\Debug\net6.0\refint\MusicCMS DataAccess.dll
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow-MusicCMS-master\Sparrow MusicCMS\MusicCMS DataAccess\obj\Debug\net6.0\MusicCMS DataAccess.pdb
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow-MusicCMS-master\Sparrow MusicCMS\MusicCMS DataAccess\obj\Debug\net6.0\MusicCMS DataAccess.genruntimeconfig.cache
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow-MusicCMS-master\Sparrow MusicCMS\MusicCMS DataAccess\obj\Debug\net6.0\ref\MusicCMS DataAccess.dll
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS\MusicCMS DataAccess\bin\Debug\net6.0\MusicCMS DataAccess.deps.json
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS\MusicCMS DataAccess\bin\Debug\net6.0\MusicCMS DataAccess.runtimeconfig.json
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS\MusicCMS DataAccess\bin\Debug\net6.0\MusicCMS DataAccess.dll
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS\MusicCMS DataAccess\bin\Debug\net6.0\MusicCMS DataAccess.pdb
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS\MusicCMS DataAccess\bin\Debug\net6.0\MusicCMS Core.dll
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS\MusicCMS DataAccess\bin\Debug\net6.0\MusicCMS Entities.dll
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS\MusicCMS DataAccess\bin\Debug\net6.0\MusicCMS Core.pdb
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS\MusicCMS DataAccess\bin\Debug\net6.0\MusicCMS Entities.pdb
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS\MusicCMS DataAccess\obj\Debug\net6.0\MusicCMS DataAccess.csproj.AssemblyReference.cache
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS\MusicCMS DataAccess\obj\Debug\net6.0\MusicCMS DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS\MusicCMS DataAccess\obj\Debug\net6.0\MusicCMS DataAccess.AssemblyInfoInputs.cache
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS\MusicCMS DataAccess\obj\Debug\net6.0\MusicCMS DataAccess.AssemblyInfo.cs
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS\MusicCMS DataAccess\obj\Debug\net6.0\MusicCMS DataAccess.csproj.CoreCompileInputs.cache
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS\MusicCMS DataAccess\obj\Debug\net6.0\EFCoreSqlServerNetTopologySuite.cs
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS\MusicCMS DataAccess\obj\Debug\net6.0\EFCoreSqliteNetTopologySuite.cs
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS\MusicCMS DataAccess\obj\Debug\net6.0\MusicCMS DataAccess.csproj.CopyComplete
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS\MusicCMS DataAccess\obj\Debug\net6.0\MusicCMS DataAccess.dll
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS\MusicCMS DataAccess\obj\Debug\net6.0\refint\MusicCMS DataAccess.dll
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS\MusicCMS DataAccess\obj\Debug\net6.0\MusicCMS DataAccess.pdb
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS\MusicCMS DataAccess\obj\Debug\net6.0\MusicCMS DataAccess.genruntimeconfig.cache
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS\MusicCMS DataAccess\obj\Debug\net6.0\ref\MusicCMS DataAccess.dll

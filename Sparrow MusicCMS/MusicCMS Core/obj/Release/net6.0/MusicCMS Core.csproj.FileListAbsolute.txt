@@ -1,0 +1,16 @@
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS\MusicCMS Core\bin\Release\net6.0\MusicCMS Core.deps.json
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS\MusicCMS Core\bin\Release\net6.0\MusicCMS Core.runtimeconfig.json
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS\MusicCMS Core\bin\Release\net6.0\MusicCMS Core.dll
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS\MusicCMS Core\bin\Release\net6.0\MusicCMS Core.pdb
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS\MusicCMS Core\obj\Release\net6.0\MusicCMS Core.csproj.AssemblyReference.cache
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS\MusicCMS Core\obj\Release\net6.0\MusicCMS Core.GeneratedMSBuildEditorConfig.editorconfig
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS\MusicCMS Core\obj\Release\net6.0\MusicCMS Core.AssemblyInfoInputs.cache
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS\MusicCMS Core\obj\Release\net6.0\MusicCMS Core.AssemblyInfo.cs
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS\MusicCMS Core\obj\Release\net6.0\MusicCMS Core.csproj.CoreCompileInputs.cache
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS\MusicCMS Core\obj\Release\net6.0\EFCoreSqlServerNetTopologySuite.cs
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS\MusicCMS Core\obj\Release\net6.0\EFCoreSqliteNetTopologySuite.cs
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS\MusicCMS Core\obj\Release\net6.0\MusicCMS Core.dll
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS\MusicCMS Core\obj\Release\net6.0\refint\MusicCMS Core.dll
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS\MusicCMS Core\obj\Release\net6.0\MusicCMS Core.pdb
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS\MusicCMS Core\obj\Release\net6.0\MusicCMS Core.genruntimeconfig.cache
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS\MusicCMS Core\obj\Release\net6.0\ref\MusicCMS Core.dll

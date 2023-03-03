@@ -1,0 +1,88 @@
+{
+  "Username": "Admin",
+  "UserEmail": "admin@musicms.corp",
+  "UserPassport": "Admin",
+  "UsserImage": "string",
+  "UserBehaviorStatus": "active",
+  "UserRole": "Admin",
+}
+
+
+
+
+        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+        {
+            string connection = @"Data Source=DESKTOP-V5M8BKF;Initial Catalog=MusicCMS;User ID=sa;Password=admin1234; Integrated Security=True; ApplicationIntent=ReadWrite; MultipleActiveResultSets = True; Trusted_Connection=True;";
+            optionsBuilder.UseSqlServer(connection);
+        }
+        public override int SaveChanges()
+        {
+            try
+            {
+                return base.SaveChanges();
+            }
+            //catch (DbEntityValidationException vex)
+            //{
+            //    var exception = HandleDbEntityValidationException(vex);
+            //    throw exception;
+            //}
+            catch (DbUpdateException dbu)
+            {
+                var exception = HandleDbUpdateException(dbu);
+                Debug.WriteLine(exception.Message.ToString());
+
+                throw exception;
+
+            }
+        }
+
+        private Exception HandleDbUpdateException(DbUpdateException dbu)
+        {
+            var builder = new StringBuilder("A DbUpdateException was caught while saving changes. ");
+
+            try
+            {
+                foreach (var result in dbu.Entries)
+                {
+                    builder.AppendFormat("Type: {0} was part of the problem.", result.Entity.GetType().FullName);
+                }
+            }
+            catch (Exception e)
+            {
+                builder.Append("Error parsing DbUpdateException: " + e.ToString());
+            }
+
+            string message = builder.ToString();
+            return new Exception(message, dbu);
+        }
+
+
+
+
+
+ public class UserAccount  :IEntity
+    {
+        public UserAccount()
+        {
+
+        }
+
+        [Key]
+        [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
+        //public int Id{ get; set; }
+
+
+        [JsonProperty(PropertyName = "username")]
+        public string Username { get; set; }
+
+        [JsonProperty(PropertyName = "email")]
+        public string Useremail { get; set; }
+
+        [JsonProperty(PropertyName = "password")]
+        public string UserPassword { get; set; }
+
+
+
+
+    }
+

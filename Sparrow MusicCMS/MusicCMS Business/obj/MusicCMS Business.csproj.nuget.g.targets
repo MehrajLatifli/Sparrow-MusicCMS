@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ImportGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <Import Project="$(NuGetPackageRoot)system.text.json\6.0.6\build\System.Text.Json.targets" Condition="Exists('$(NuGetPackageRoot)system.text.json\6.0.6\build\System.Text.Json.targets')" />
+    <Import Project="$(NuGetPackageRoot)microsoft.entityframeworkcore.sqlserver.nettopologysuite\6.0.0\build\net6.0\Microsoft.EntityFrameworkCore.SqlServer.NetTopologySuite.targets" Condition="Exists('$(NuGetPackageRoot)microsoft.entityframeworkcore.sqlserver.nettopologysuite\6.0.0\build\net6.0\Microsoft.EntityFrameworkCore.SqlServer.NetTopologySuite.targets')" />
+    <Import Project="$(NuGetPackageRoot)microsoft.entityframeworkcore.sqlite.nettopologysuite\6.0.0\build\net6.0\Microsoft.EntityFrameworkCore.Sqlite.NetTopologySuite.targets" Condition="Exists('$(NuGetPackageRoot)microsoft.entityframeworkcore.sqlite.nettopologysuite\6.0.0\build\net6.0\Microsoft.EntityFrameworkCore.Sqlite.NetTopologySuite.targets')" />
+  </ImportGroup>
+</Project>

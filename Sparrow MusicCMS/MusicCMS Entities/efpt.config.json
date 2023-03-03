@@ -1,0 +1,81 @@
+﻿{
+   "CodeGenerationMode": 2,
+   "ContextClassName": "MusicCMSContext",
+   "ContextNamespace": null,
+   "DefaultDacpacSchema": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": false,
+   "ModelNamespace": null,
+   "OutputContextPath": null,
+   "OutputPath": "Concrete\/DatabaseFirst",
+   "PreserveCasingWithRegex": true,
+   "ProjectRootNamespace": "MusicCMS_Entities",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 0,
+   "SelectedToBeGenerated": 0,
+   "Tables": [
+      {
+         "Name": "[dbo].[Album]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Artist]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[ArtistAlbum]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Music]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[MusicAlbum]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Notification]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Playlist]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[PlaylistMusic]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Radio]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[UserAccount]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[PlaylistMusicStoredProcedure]",
+         "ObjectType": 1
+      }
+   ],
+   "UiHint": "DESKTOP-8OJJGAH.MusicCMS",
+   "UseBoolPropertiesWithoutDefaultSql": false,
+   "UseDatabaseNames": true,
+   "UseDbContextSplitting": false,
+   "UseFluentApiOnly": true,
+   "UseHandleBars": false,
+   "UseHierarchyId": false,
+   "UseInflector": false,
+   "UseLegacyPluralizer": false,
+   "UseManyToManyEntity": false,
+   "UseNoConstructor": false,
+   "UseNoDefaultConstructor": false,
+   "UseNoNavigations": false,
+   "UseNoObjectFilter": false,
+   "UseNodaTime": false,
+   "UseNullableReferences": false,
+   "UseSchemaFolders": false,
+   "UseSpatial": false,
+   "UseT4": false
+}

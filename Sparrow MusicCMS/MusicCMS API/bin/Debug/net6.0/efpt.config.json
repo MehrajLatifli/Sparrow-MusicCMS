@@ -1,0 +1,77 @@
+﻿{
+   "CodeGenerationMode": 2,
+   "ContextClassName": "MusicCMSContext",
+   "ContextNamespace": null,
+   "DefaultDacpacSchema": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": false,
+   "ModelNamespace": null,
+   "OutputContextPath": null,
+   "OutputPath": "Models",
+   "PreserveCasingWithRegex": true,
+   "ProjectRootNamespace": "MusicCMS_API",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 0,
+   "SelectedToBeGenerated": 0,
+   "Tables": [
+      {
+         "Name": "[dbo].[Album]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Artist]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[ArtistAlbum]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Music]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[MusicAlbum]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Notification]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Playlist]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[PlaylistMusic]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Radio]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[UserAccont]",
+         "ObjectType": 0
+      }
+   ],
+   "UiHint": "DESKTOP-V5M8BKF.MusicCMS",
+   "UseBoolPropertiesWithoutDefaultSql": false,
+   "UseDatabaseNames": false,
+   "UseDbContextSplitting": false,
+   "UseFluentApiOnly": true,
+   "UseHandleBars": false,
+   "UseHierarchyId": false,
+   "UseInflector": false,
+   "UseLegacyPluralizer": false,
+   "UseManyToManyEntity": false,
+   "UseNoConstructor": false,
+   "UseNoDefaultConstructor": false,
+   "UseNoNavigations": false,
+   "UseNoObjectFilter": false,
+   "UseNodaTime": false,
+   "UseNullableReferences": false,
+   "UseSchemaFolders": false,
+   "UseSpatial": false,
+   "UseT4": false
+}

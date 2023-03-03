@@ -1,0 +1,23 @@
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS\MusicCMS Business\bin\Release\net6.0\MusicCMS Business.deps.json
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS\MusicCMS Business\bin\Release\net6.0\MusicCMS Business.runtimeconfig.json
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS\MusicCMS Business\bin\Release\net6.0\MusicCMS Business.dll
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS\MusicCMS Business\bin\Release\net6.0\MusicCMS Business.pdb
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS\MusicCMS Business\bin\Release\net6.0\MusicCMS Core.dll
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS\MusicCMS Business\bin\Release\net6.0\MusicCMS DataAccess.dll
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS\MusicCMS Business\bin\Release\net6.0\MusicCMS Entities.dll
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS\MusicCMS Business\bin\Release\net6.0\MusicCMS DataAccess.pdb
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS\MusicCMS Business\bin\Release\net6.0\MusicCMS Entities.pdb
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS\MusicCMS Business\bin\Release\net6.0\MusicCMS Core.pdb
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS\MusicCMS Business\obj\Release\net6.0\MusicCMS Business.csproj.AssemblyReference.cache
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS\MusicCMS Business\obj\Release\net6.0\MusicCMS Business.GeneratedMSBuildEditorConfig.editorconfig
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS\MusicCMS Business\obj\Release\net6.0\MusicCMS Business.AssemblyInfoInputs.cache
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS\MusicCMS Business\obj\Release\net6.0\MusicCMS Business.AssemblyInfo.cs
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS\MusicCMS Business\obj\Release\net6.0\MusicCMS Business.csproj.CoreCompileInputs.cache
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS\MusicCMS Business\obj\Release\net6.0\EFCoreSqlServerNetTopologySuite.cs
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS\MusicCMS Business\obj\Release\net6.0\EFCoreSqliteNetTopologySuite.cs
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS\MusicCMS Business\obj\Release\net6.0\MusicCMS Business.csproj.CopyComplete
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS\MusicCMS Business\obj\Release\net6.0\MusicCMS Business.dll
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS\MusicCMS Business\obj\Release\net6.0\refint\MusicCMS Business.dll
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS\MusicCMS Business\obj\Release\net6.0\MusicCMS Business.pdb
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS\MusicCMS Business\obj\Release\net6.0\MusicCMS Business.genruntimeconfig.cache
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS\MusicCMS Business\obj\Release\net6.0\ref\MusicCMS Business.dll

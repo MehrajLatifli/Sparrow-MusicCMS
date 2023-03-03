@@ -1,0 +1,19 @@
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS\MusicCMS Entities\bin\Release\net6.0\MusicCMS Entities.deps.json
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS\MusicCMS Entities\bin\Release\net6.0\MusicCMS Entities.runtimeconfig.json
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS\MusicCMS Entities\bin\Release\net6.0\MusicCMS Entities.dll
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS\MusicCMS Entities\bin\Release\net6.0\MusicCMS Entities.pdb
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS\MusicCMS Entities\bin\Release\net6.0\MusicCMS Core.dll
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS\MusicCMS Entities\bin\Release\net6.0\MusicCMS Core.pdb
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS\MusicCMS Entities\obj\Release\net6.0\MusicCMS Entities.csproj.AssemblyReference.cache
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS\MusicCMS Entities\obj\Release\net6.0\MusicCMS Entities.GeneratedMSBuildEditorConfig.editorconfig
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS\MusicCMS Entities\obj\Release\net6.0\MusicCMS Entities.AssemblyInfoInputs.cache
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS\MusicCMS Entities\obj\Release\net6.0\MusicCMS Entities.AssemblyInfo.cs
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS\MusicCMS Entities\obj\Release\net6.0\MusicCMS Entities.csproj.CoreCompileInputs.cache
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS\MusicCMS Entities\obj\Release\net6.0\EFCoreSqlServerNetTopologySuite.cs
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS\MusicCMS Entities\obj\Release\net6.0\EFCoreSqliteNetTopologySuite.cs
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS\MusicCMS Entities\obj\Release\net6.0\MusicCMS Entities.csproj.CopyComplete
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS\MusicCMS Entities\obj\Release\net6.0\MusicCMS Entities.dll
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS\MusicCMS Entities\obj\Release\net6.0\refint\MusicCMS Entities.dll
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS\MusicCMS Entities\obj\Release\net6.0\MusicCMS Entities.pdb
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS\MusicCMS Entities\obj\Release\net6.0\MusicCMS Entities.genruntimeconfig.cache
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS\MusicCMS Entities\obj\Release\net6.0\ref\MusicCMS Entities.dll
