@@ -66,27 +66,27 @@ namespace MusicCMS.ViewModels
                     {
 
 
-                            if (_StartWindow.StartProgressBar.Value == 100)
-                            {
-                                _StartWindow.Hide();
+
+                        if (_StartWindow.StartProgressBar.Value == 100)
+                        {
+                            _StartWindow.Hide();
 
 
-                                var UserPanelWindow = new UserPanelWindow();
+                            var UserPanelWindow = new UserPanelWindow();
 
-                                _UserPanelViewModel = new UserPanelViewModel();
+                            _UserPanelViewModel = new UserPanelViewModel();
 
-                                _UserPanelViewModel._UserPanelWindow = UserPanelWindow;
+                            _UserPanelViewModel._UserPanelWindow = UserPanelWindow;
 
 
-                                UserPanelWindow.ShowDialog();
-                            }
+                            UserPanelWindow.ShowDialog();
+                        }
 
                     }));
                 });
             });
 
         }
-
 
     }
 }

@@ -1,6 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Sparrow MusicCMS",
+    "\\Sparrow MusicCMS\\MusicCMS",
+    "\\Sparrow MusicCMS\\MusicCMS\\ViewModels",
+    "\\Sparrow MusicCMS\\MusicCMS\\Views",
+    "\\Sparrow MusicCMS\\MusicCMS\\Views\\UserControls"
   ],
   "PreviewInSolutionExplorer": false
 }

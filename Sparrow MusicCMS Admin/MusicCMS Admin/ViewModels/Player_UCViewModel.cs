@@ -798,34 +798,36 @@ namespace MusicCMS_Admin.ViewModels
 
                     if (file.FilePath != null)
                     {
-
-                        mediaPlayer.Open(new Uri(file.FilePath, UriKind.RelativeOrAbsolute));
-
-
-                        Player play = new Player(new PlayState(mediaPlayer));
-
-                        play.Play(mediaPlayer, Musics, _Player_UC);
-
-                        _Player_UC.PlayPauseKind.Kind = MahApps.Metro.IconPacks.PackIconMaterialKind.Pause;
-
-
-                        playerwork = new Playerwork()
+                        if (HttpValidation(file.FilePath) != false)
                         {
-
-                            IdMusic = file.IdFile,
-                            playerstatus = false,
-
-                        };
-
-                        playerwork.Serialize(playerwork, "../../../Asserts/Files/player.json");
-
-                        Task.Run(() =>
-                        {
-                            var task = new Task(async () => { await Timer(); });
-                            task.Start();
+                            mediaPlayer.Open(new Uri(file.FilePath, UriKind.RelativeOrAbsolute));
 
 
-                        });
+                            Player play = new Player(new PlayState(mediaPlayer));
+
+                            play.Play(mediaPlayer, Musics, _Player_UC);
+
+                            _Player_UC.PlayPauseKind.Kind = MahApps.Metro.IconPacks.PackIconMaterialKind.Pause;
+
+
+                            playerwork = new Playerwork()
+                            {
+
+                                IdMusic = file.IdFile,
+                                playerstatus = false,
+
+                            };
+
+                            playerwork.Serialize(playerwork, "../../../Asserts/Files/player.json");
+
+                            Task.Run(() =>
+                            {
+                                var task = new Task(async () => { await Timer(); });
+                                task.Start();
+
+
+                            });
+                        }
                     }
                 }
 
@@ -897,23 +899,57 @@ namespace MusicCMS_Admin.ViewModels
 
         private bool HttpValidation(string URL)
         {
-            Uri urlToCheck = new Uri(URL);
-            WebRequest request = WebRequest.Create(urlToCheck);
-            request.Timeout = 5000;
-
-            WebResponse response;
-            try
+            if (!string.IsNullOrEmpty(URL) && Uri.IsWellFormedUriString(URL, UriKind.RelativeOrAbsolute))
             {
-                response = request.GetResponse();
+
+
+                Uri urlToCheck = new Uri(URL);
+                WebRequest request = WebRequest.Create(urlToCheck);
+                request.Timeout = 5000;
+
+                WebResponse response;
+                try
+                {
+                    response = request.GetResponse();
+                }
+                catch (Exception ex)
+                {
+
+
+                    ToastNotificationWindowIndex++;
+
+
+                    ToastNotificationWindow = new ToastNotificationWindow($"{ex.Message}", "../../../Asserts/Images/Logo/Mainlogo/LOGOag.png", (Color)System.Windows.Media.ColorConverter.ConvertFromString("#FF4500"), (Color)System.Windows.Media.ColorConverter.ConvertFromString("#FFFFFF"), sizecount);
+                    ToastNotificationWindow.Show();
+
+                    var desktopWorkingArea = System.Windows.SystemParameters.WorkArea;
+
+                    if (ToastNotificationWindow.Top <= 0)
+                    {
+                        sizecount = 5;
+                    }
+
+                    else
+                    {
+
+                        //sizecount = sizecount + 80;
+                    }
+
+
+                    _Player_UC.PlayPauseKind.Kind = MahApps.Metro.IconPacks.PackIconMaterialKind.Play;
+
+
+                    return false; //url does not exist or have some error
+                }
+
             }
-            catch (Exception ex)
+            else
             {
-
 
                 ToastNotificationWindowIndex++;
 
 
-                ToastNotificationWindow = new ToastNotificationWindow($"{ex.Message}", "../../../Asserts/Images/Logo/Mainlogo/LOGOag.png", (Color)System.Windows.Media.ColorConverter.ConvertFromString("#FF4500"), (Color)System.Windows.Media.ColorConverter.ConvertFromString("#FFFFFF"), sizecount);
+                ToastNotificationWindow = new ToastNotificationWindow($"Link broken", "../../../Asserts/Images/Logo/Mainlogo/LOGOag.png", (Color)System.Windows.Media.ColorConverter.ConvertFromString("#FF4500"), (Color)System.Windows.Media.ColorConverter.ConvertFromString("#FFFFFF"), sizecount);
                 ToastNotificationWindow.Show();
 
                 var desktopWorkingArea = System.Windows.SystemParameters.WorkArea;
@@ -931,11 +967,7 @@ namespace MusicCMS_Admin.ViewModels
 
 
                 _Player_UC.PlayPauseKind.Kind = MahApps.Metro.IconPacks.PackIconMaterialKind.Play;
-
-
-                return false; //url does not exist or have some error
             }
-
             return true;
         }
 
