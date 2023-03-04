@@ -1,3 +1,4 @@
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS\MusicCMS API\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
 G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS\MusicCMS API\bin\Debug\net6.0\appsettings.Development.json
 G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS\MusicCMS API\bin\Debug\net6.0\appsettings.json
 G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS\MusicCMS API\bin\Debug\net6.0\efpt.config.json
@@ -657,7 +658,6 @@ G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS\
 G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS\MusicCMS API\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
 G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS\MusicCMS API\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
 G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS\MusicCMS API\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
-G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS\MusicCMS API\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
 G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS\MusicCMS API\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
 G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS\MusicCMS API\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
 G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS\MusicCMS API\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib

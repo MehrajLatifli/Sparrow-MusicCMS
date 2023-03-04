@@ -27,6 +27,8 @@ namespace MusicCMS.Views
             InitializeComponent();
 
             this.DataContext = new StartViewModel() { _StartWindow = this };
+
+           
          
         }
 

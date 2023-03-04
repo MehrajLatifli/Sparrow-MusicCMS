@@ -6,6 +6,7 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <RootNamespace>MusicCMS_API</RootNamespace>
     <ApplicationIcon>default.ico</ApplicationIcon>
+    <Platforms>AnyCPU;ARM32</Platforms>
   </PropertyGroup>
 
   <ItemGroup>

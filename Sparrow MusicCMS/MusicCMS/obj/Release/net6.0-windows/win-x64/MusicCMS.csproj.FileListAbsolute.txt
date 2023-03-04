@@ -1,0 +1,23 @@
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS\MusicCMS\obj\Release\net6.0-windows\win-x64\MusicCMS.csproj.AssemblyReference.cache
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS\MusicCMS\obj\Release\net6.0-windows\win-x64\Dictionaries\ComboBoxDictionary.baml
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS\MusicCMS\obj\Release\net6.0-windows\win-x64\Dictionaries\EllipseDictionary.baml
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS\MusicCMS\obj\Release\net6.0-windows\win-x64\Dictionaries\ListboxtItemDictionary.baml
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS\MusicCMS\obj\Release\net6.0-windows\win-x64\Dictionaries\MusicSectionDictionary.baml
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS\MusicCMS\obj\Release\net6.0-windows\win-x64\Dictionaries\ScrollviewerDictionary.baml
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS\MusicCMS\obj\Release\net6.0-windows\win-x64\Dictionaries\SearchDictionary.baml
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS\MusicCMS\obj\Release\net6.0-windows\win-x64\Dictionaries\SliderDictionary.baml
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS\MusicCMS\obj\Release\net6.0-windows\win-x64\Dictionaries\StartWindows_Dictionary.baml
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS\MusicCMS\obj\Release\net6.0-windows\win-x64\Views\Helper Views\Notification Views\ToastNotificationWindow.g.cs
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS\MusicCMS\obj\Release\net6.0-windows\win-x64\Views\Helper Views\PlaylistMusic Views\PlaylistMusicWindow.g.cs
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS\MusicCMS\obj\Release\net6.0-windows\win-x64\Views\StartWindow.g.cs
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS\MusicCMS\obj\Release\net6.0-windows\win-x64\Views\UserControls\Home_UC.g.cs
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS\MusicCMS\obj\Release\net6.0-windows\win-x64\Views\UserControls\Music_UC.g.cs
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS\MusicCMS\obj\Release\net6.0-windows\win-x64\Views\UserControls\Player_UC.g.cs
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS\MusicCMS\obj\Release\net6.0-windows\win-x64\Views\UserControls\Playlist_UC.g.cs
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS\MusicCMS\obj\Release\net6.0-windows\win-x64\Views\UserControls\Radio_UC.g.cs
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS\MusicCMS\obj\Release\net6.0-windows\win-x64\Views\UserPanelWindow.g.cs
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS\MusicCMS\obj\Release\net6.0-windows\win-x64\App.g.cs
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS\MusicCMS\obj\Release\net6.0-windows\win-x64\MusicCMS_Content.g.cs
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS\MusicCMS\obj\Release\net6.0-windows\win-x64\GeneratedInternalTypeHelper.g.cs
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS\MusicCMS\obj\Release\net6.0-windows\win-x64\MusicCMS_MarkupCompile.cache
+G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS\MusicCMS\obj\Release\net6.0-windows\win-x64\MusicCMS_MarkupCompile.lref

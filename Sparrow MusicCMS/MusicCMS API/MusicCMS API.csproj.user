@@ -3,6 +3,9 @@
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
     <DebuggerFlavor>ProjectDebugger</DebuggerFlavor>
   </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|ARM32'">
+    <DebuggerFlavor>ProjectDebugger</DebuggerFlavor>
+  </PropertyGroup>
   <PropertyGroup>
     <ActiveDebugProfile>MusicCMS_API</ActiveDebugProfile>
     <NameOfLastUsedPublishProfile>G:\Step\Ev tapşırıqları\Dot Net Kurs işi\Sparrow MusicCMS\Sparrow MusicCMS\MusicCMS API\Properties\PublishProfiles\IISProfile.pubxml</NameOfLastUsedPublishProfile>
